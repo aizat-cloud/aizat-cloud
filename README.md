@@ -33,13 +33,13 @@ Career pivoter building a deliberate, documented foundation in Linux System Admi
 
 #### 📌 Featured Projects
 
-🔧 **[Linux Server Provisioning & Audit System](#)** — *Coming soon*  
+🔧 **[Linux Server Provisioning & Audit System](https://github.com/aizat-cloud/linux-server-audit-system)** ✅  
 End-to-end Bash automation for user provisioning, hardware auditing, and secure log archiving on Ubuntu Server.
 
-☁️ **[Resilient Multi-AZ VPC Architecture](#)** — *Coming soon*  
+☁️ **[Resilient Multi-AZ VPC Architecture](https://github.com/aizat-cloud/resilient-aws-vpc-architecture)** ✅  
 Production-style AWS VPC with Multi-AZ design, public/private subnet isolation, and secure outbound via NAT Gateway.
 
-🚀 **[Automated Web Server Deployment on Custom VPC](#)** — *Coming soon*  
+🚀 **Automated Web Server Deployment on Custom VPC** — *In progress*  
 Integrated project combining Linux automation and AWS networking — full-stack cloud infrastructure from scratch.
 
 ---
