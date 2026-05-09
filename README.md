@@ -17,7 +17,7 @@ Career pivoter building a deliberate, documented foundation in Linux System Admi
 
 #### 🎯 Next on the Roadmap
 
-`Terraform` → `Docker` → `AWS DevOps Professional` → `AWS Security Specialty`
+`AWS SAA` → `Terraform` → `Docker` → `Kubernetes` → `AWS Security Specialty` → `AWS Solutions Architect Professional`
 
 ---
 
