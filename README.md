@@ -39,8 +39,8 @@ End-to-end Bash automation for user provisioning, hardware auditing, and secure 
 ☁️ **[Resilient Multi-AZ VPC Architecture](https://github.com/aizat-cloud/resilient-aws-vpc-architecture)** ✅  
 Production-style AWS VPC with Multi-AZ design, public/private subnet isolation, and secure outbound via NAT Gateway.
 
-🚀 **Automated Web Server Deployment on Custom VPC** — *In progress*  
-Integrated project combining Linux automation and AWS networking — full-stack cloud infrastructure from scratch.
+🚀 **[Automated Web Server Deployment on Custom VPC](https://github.com/aizat-cloud/automated-webserver-vpc-deployment)** ✅  
+Master capstone integrating Linux Bash automation and AWS networking — full-stack cloud infrastructure from VPC design to live web server with Mermaid architecture diagram.
 
 ---
 
